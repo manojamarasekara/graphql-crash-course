@@ -11,3 +11,5 @@ Drawbacks in RESTful API
 
 How GraphQL works
   * Query is sent to a single server endpoint.
+
+We use Apollo server and it creates a GraphQL server
