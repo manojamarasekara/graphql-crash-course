@@ -13,3 +13,5 @@ How GraphQL works
   * Query is sent to a single server endpoint.
 
 We use Apollo server and it creates a GraphQL server
+
+In server typeDefs are definitions of type of data that we want. example : author game , price, description, title. 
